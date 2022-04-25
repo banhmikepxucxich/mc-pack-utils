@@ -1,39 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to this stupid website for Minecraft pack making utilities.
 
-You can use the [editor on GitHub](https://github.com/banhmikepxucxich/mc-pack-utils/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So normally I don't give out binary builds because well I don't like to. Because of that, you have to install the programming language + libraries and run it yourself. Though I might give out some binary builds if I feel like so. 
 
-### Markdown
+## Table
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Click on link for source :D
 
-```markdown
-Syntax highlighted code block
+| Script name | Programming Language | Libraries |
+| :---: | :---: | :---: |
+| [Recolor Block](../RecolorBlock/RecolorBlock.py) | Python 3 | ktinker, pillow |
+| [Recolor Sword](../RecolorSword/RecolorSword.py) | Python 3 | ktinker, pillow |
+| [Recolor Wool, Clay](../RecolorWool/RecolorWool.py) | Python 3 | pillow |
 
-# Header 1
-## Header 2
-### Header 3
+## Instructions
 
-- Bulleted
-- List
+1. Make sure you have python already, latest release of **[Python](https://www.python.org/downloads/)**
+2. Make sure you have the **libraries**.
+   1. **Check** with `pip3 list`
+   2. If missing, **install** with `pip3 install <packagename>`
+   3. Yes I know I suck at giving instructions just search google or something
+3. Now **cd** to the script root, and `python3 <script name>`
+4. **Examples** are *in the scripts' folders* so yeah.
 
-1. Numbered
-2. List
+## [Github](https://github.com/banhmikepxucxich/mc-pack-utils)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/banhmikepxucxich/mc-pack-utils/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-yes
+go to my main [website](https://banhmikepxucxich.github.io) :D
