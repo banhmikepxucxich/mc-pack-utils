@@ -10,9 +10,9 @@ Click on link for source :D
 
 | Script name | Programming Language | Libraries |
 | :---: | :---: | :---: |
-| [Recolor Block](../RecolorBlock/RecolorBlock.py) | Python 3 | ktinker, pillow |
-| [Recolor Sword](../RecolorSword/RecolorSword.py) | Python 3 | ktinker, pillow |
-| [Recolor Wool, Clay](../RecolorWool/RecolorWool.py) | Python 3 | pillow |
+| [Recolor Block](https://github.com/banhmikepxucxich/mc-pack-utils/blob/main/RecolorBlock/RecolorBlock.py) | Python 3 | ktinker, pillow |
+| [Recolor Sword](https://github.com/banhmikepxucxich/mc-pack-utils/blob/main/RecolorSword/RecolorSword.py) | Python 3 | ktinker, pillow |
+| [Recolor Wool, Clay](https://github.com/banhmikepxucxich/mc-pack-utils/blob/main/RecolorWool/RecolorWool.py) | Python 3 | pillow |
 
 ## Instructions
 
